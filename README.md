@@ -1,6 +1,9 @@
 # AegisRisk AI — Real-Time Financial NLP Risk Engine & Tactical Index Rebalancer
 ### S&P Global & CRISIL Campus Hackathon 2026 Submission
 
+> **Candidate:** Sanchit Sachdeva | **College:** Manipal University Jaipur  
+> **Repository ID:** `manipal-university-jaipur-sanchit-sachdeva-hackathon`
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111.0-009688.svg)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-18-61DAFB.svg)](https://react.dev/)
